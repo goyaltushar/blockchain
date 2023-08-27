@@ -1,2 +1,2 @@
-# blockchain
+# Blockchain
 Implemented basic Blockchain concepts
